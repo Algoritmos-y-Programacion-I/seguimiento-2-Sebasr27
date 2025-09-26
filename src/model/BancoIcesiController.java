@@ -20,11 +20,15 @@ public class BancoIcesiController {
      *      Agregue la logica necesaria (instrucciones) para satisfacer los requerimientos.
      */
     public void agregarCuentaCliente() {
+        System.out.print("Ingresa tu nombre completo")
+        String nombre = input.nextLine();
 
     }
 
    
     public void depositarDineroCuenta() {
+        System.out.print("Ingresa tu nombre")
+        String nombre = input.nextLine();
 
     }
 
